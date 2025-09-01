@@ -1,0 +1,501 @@
+@book{95_Thesen,
+  author    = {ProGenesis},
+  date      = {September},
+  isbn      = {3866992203},
+  owner     = {NachtaktiverHalbaffe},
+  publisher = {Christliche Literaturverbreitung},
+  timestamp = {2015.08.30},
+  title     = {95 Thesen gegen die Evolution},
+  url       = {https://www.amazon.de/Thesen-gegen-Evolution-Wissenschaftliche-naturalistischen/dp/3866992203/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=31NFO6IMRUHDL&keywords=95+thesen+gegen+die+evolution&qid=1575984905&s=books&sprefix=95+thesen+ge%2Cstripbooks%2C162&sr=1-1},
+  year      = {2010}
+}
+
+@online{Amos,
+  author    = {Peter Höffken},
+  date      = {September},
+  editor    = {Bibelkommentare.de},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2016.01.07},
+  title     = {Amos/Amosbuch},
+  url       = {https://www.bibelwissenschaft.de/wibilex/das-bibellexikon/lexikon/sachwort/anzeigen/details/amos-amosbuch/ch/ced3eea7a6a3055a8e83b5d9687ec1f7/#h3},
+  year      = {2006}
+}
+
+@online{Hoeffken2006,
+  author    = {Peter Höffken},
+  date      = {31. März},
+  editor    = {WILAT-Wissenschaftliches Internet-Lexikon zum Alten Testament},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2016.01.07},
+  title     = {Amos/Amosbuch},
+  url       = {https://www.uni-due.de/Ev-Theologie/wilat/Hoeffken,Peter-amos.htm},
+  year      = {2006}
+}
+
+@book{Hermeneutik,
+  author    = {Gerhard Maier},
+  publisher = {R. Brockhausverlag Wuppertal und Zürich},
+  title     = {Biblische Hermeneutik},
+  year      = {1990}
+}
+
+@online{Dan,
+  author    = {Ewald Keck},
+  date      = {6. Januar},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2016.01.06},
+  title     = {Das Buch Daniel},
+  url       = {http://www.bibelgemeinde-bremen.de/downloads/daniel.pdf},
+  year      = {2016}
+}
+
+@online{Hesekiel,
+  author    = {Ewald Keck},
+  date      = {6. Januar},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2016.01.06},
+  title     = {Das Buch Hesekiel},
+  url       = {http://www.bibelgemeinde-bremen.de/downloads/hesekiel.pdf},
+  year      = {2016}
+}
+
+@online{Jer,
+  author    = {Ewald Keck},
+  date      = {1. Januar},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2016.01.05},
+  title     = {Das Buch Jeremia},
+  url       = {http://www.bibelgemeinde-bremen.de/downloads/jeremia.pdf},
+  year      = {2016}
+}
+
+@online{Jes,
+  author    = {Ewald Keck},
+  date      = {5. Januar},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2016.01.05},
+  title     = {Das Buch Jesaja},
+  url       = {http://www.bibelgemeinde-bremen.de/downloads/jesaja.pdf},
+  year      = {2016}
+}
+
+@online{Joh,
+  author    = {Bibelwissenschaft},
+  date      = {8. November},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2015.11.08},
+  title     = {Das Johannesevangelium},
+  url       = {http://www.bibelwissenschaft.de/bibelkunde/neues-testament/evangelien/johannes/},
+  year      = {2015}
+}
+
+@online{Lk,
+  author    = {Bibelwissenschaft},
+  date      = {8. November},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2015.11.08},
+  title     = {Das Lukasevangelium},
+  url       = {http://www.bibelwissenschaft.de/bibelkunde/neues-testament/evangelien/lukas/},
+  year      = {2015}
+}
+
+@online{Lukas,
+  author    = {Ludwig-Maximilians-Universität München},
+  date      = {Sommersemester},
+  editor    = {Häfner},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2015.11.08},
+  title     = {Das Lukasevangelium und die Apostelgeschichte},
+  url       = {http://www.kaththeol.uni-muenchen.de/lehrstuehle/bibl_einleitung/downloads/rep_grundwissen/lkevrep.pdf},
+  year      = {2013}
+}
+
+@online{Mt,
+  author    = {Bibelwissenschaft},
+  date      = {8. November},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2015.11.08},
+  title     = {Das Matthäusevangelium},
+  url       = {http://www.bibelwissenschaft.de/de/bibelkunde/neues-testament/evangelien/matthaeus/},
+  year      = {2015}
+}
+
+@online{Petr,
+  author    = {Bibelwissenschaft},
+  date      = {19. November},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2015.11.19},
+  title     = {Der 1. Petrusbrief},
+  url       = {http://www.bibelwissenschaft.de/bibelkunde/neues-testament/katholische-briefe/1-petrusbrief/},
+  year      = {2015}
+}
+
+@online{Jakobus,
+  author    = {Ludwig-Maximilians-Universität München},
+  date      = {19. November},
+  editor    = {Katholisch-Theologische Fakultät},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2015.11.19},
+  title     = {Der Jakobusbrief},
+  url       = {http://www.bibelstudium.kaththeol.uni-muenchen.de/briefliteratur/jakobus/index.html},
+  year      = {2015}
+}
+
+@online{Jak,
+  author    = {Jörg Sieger},
+  date      = {15. März},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2015.11.19},
+  title     = {Der Jakobusbrief},
+  url       = {http://www.joerg-sieger.de/einleit/nt/05brief/nt84.htm#c},
+  year      = {2011}
+}
+
+@online{Jud,
+  author    = {Bibelwissenschaft},
+  date      = {19. November},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2015.11.19},
+  title     = {Der Judasbrief},
+  url       = {http://www.bibelwissenschaft.de/bibelkunde/neues-testament/katholische-briefe/judasbrief/},
+  year      = {2015}
+}
+
+@online{Daniel_2,
+  author    = {Siegfried F. Weber},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2016.01.06},
+  title     = {Der Prophet Daniel im Focus der Weltgeschichte},
+  url       = {https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=0ahUKEwjlq66ux5XKAhWiSXIKHVmxACIQFghJMAY&url=http%3A%2F%2Fwww.siegfried-f-weber.de%2Fapp%2Fdownload%2F5786051717%2FEinleitung.Daniel.SFW.pdf&usg=AFQjCNG1m02TVpQcQ64DO5Ikezbb2F61Dw&sig2=77yr7tVS_z4phdXWmr-KSw&cad=rja},
+  year      = {2010}
+}
+
+@online{Hosea,
+  author    = {John Mac Arthur},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2016.01.06},
+  title     = {Der Prophet Hosea},
+  url       = {http://bitimage.dyndns.org/german/JohnMacArthurStudienbibelAlteRechtschreibung/28-Das_Buch_Des_Propheten_Hosea.pdf},
+  year      = {2016}
+}
+
+@online{Jo,
+  author    = {Ewald Keck},
+  date      = {7. Januar},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2016.01.07},
+  title     = {Der Prophet Joel},
+  url       = {http://www.bibelgemeinde-bremen.de/downloads/joel.pdf},
+  year      = {2016}
+}
+
+@book{Bibel_Test,
+  author    = {Josh McDowell},
+  isbn      = {3893974903},
+  owner     = {NachtaktiverHalbaffe},
+  publisher = {Clv},
+  timestamp = {2015.10.13},
+  title     = {Die Bibel im Test},
+  url       = {https://www.amazon.de/Die-Bibel-Test-Josh-McDowell/dp/3893974903/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2UA09TK0ZWKQT&keywords=die+bibel+im+test&qid=1575984938&s=books&sprefix=die+bibel+im%2C%2Cstripbooks%2C160&sr=1-1},
+  year      = {2002}
+}
+
+@online{Kreuzdenker,
+  author    = {Heinrich Tischner},
+  date      = {2. April},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2015.09.08},
+  title     = {Die Entstehung der Evangelien},
+  url       = {http://www.heinrich-tischner.de/21-th/2bibel/exegese/evg-ent.htm},
+  year      = {2015}
+}
+
+@online{Johannes,
+  author    = {Ruhr-Universität-Bochum},
+  date      = {9. November},
+  editor    = {Thomas Söding},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2015.11.09},
+  title     = {Die Entstehung des Johannesevangelium},
+  url       = {http://www.ruhr-uni-bochum.de/imperia/md/content/nt/nt/dasjohannesevangelium/entstehung.pdf},
+  year      = {2015}
+}
+
+@online{glaubwuerdigkeit,
+  author    = {Dr. Roger Liebi},
+  date      = {9. November},
+  editor    = {fbibel},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2015.11.09},
+  title     = {Die Glaubwürdigkeit der Bibel},
+  url       = {http://www.fbibel.de/artikel.asp?id=93},
+  year      = {2015}
+}
+
+@online{Matthaeus,
+  author    = {Ludwig-Maximilians-Universität München},
+  date      = {Sommersemseter},
+  editor    = {Häfner},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2015.11.08},
+  title     = {Die literarische und theologische Eigenart des Matthäusevangeliums},
+  url       = {http://www.kaththeol.uni-muenchen.de/lehrstuehle/bibl_einleitung/downloads/rep_grundwissen/mtevrep.pdf},
+  year      = {2013}
+}
+
+@online{Quellentheorie_2,
+  author    = {Bibelwissenschaft},
+  date      = {30. August},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2015.08.30},
+  title     = {Die synoptischen Evangelien},
+  url       = {http://www.bibelwissenschaft.de/bibelkunde/neues-testament/evangelien/synoptiker/},
+  year      = {2015}
+}
+
+@online{cronGe,
+  author    = {Jörg Sieger},
+  date      = {15. März},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2015.11.24},
+  title     = {Ein chronistisches Geschichtswerk?},
+  url       = {http://www.joerg-sieger.de/einleit/spez/03chr/spez36.htm#c},
+  year      = {2011}
+}
+
+
+@online{Ezechiel,
+  author    = {Bibelstudium.de},
+  date      = {6. Januar},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2016.01.06},
+  title     = {Einführung ins Buch des Propheten Hesekiel},
+  url       = {http://www.bibelstudium.de/articles/1500/Einf%FChrung+ins+Buch+des+Propheten+Hesekiel},
+  year      = {2016}
+}
+
+@online{Hes,
+  author    = {Marco Rothenhöfer},
+  editor    = {Missionswek Neues Leben e.V.},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2016.01.06},
+  title     = {Einleitung Hesekiel},
+  url       = {http://www.hausarbeiten.de/faecher/vorschau/37284.html},
+  year      = {2004}
+}
+
+@online{AMOS,
+  author    = {Volker Rahm},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2016.01.07},
+  title     = {Einleitung in das Buch des Propheten Amos/Amosbuch},
+  url       = {http://www.grin.com/de/e-book/167581/einleitung-in-das-buch-des-propheten-amos},
+  year      = {2008}
+}
+
+@online{paulinischen,
+  author    = {Bergische Universität Wuppertal},
+  date      = {Wintersemester},
+  editor    = {Thomas Söding},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2015.11.11},
+  title     = {Einleitung in das Neue Testament
+               Die Briefe des Apostels Paulus und seiner Schule},
+  url       = {http://www.ruhr-uni-bochum.de/imperia/md/content/nt/nt/dasneuetestament-aufbauundentstehung/schulepaulus.pdf},
+  year      = {2004/2005}
+}
+
+@online{Hohenstaufenstr.de2012,
+  author    = {EFG Berlin Hohenstaufenstr.de},
+  date      = {29. Mai},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2015.11.19},
+  title     = {Einleitung in die Johannesbriefe},
+  url       = {http://www.efg-hohenstaufenstr.de/downloads/bibel/bk_1-3johannes.html},
+  year      = {2012}
+}
+
+@online{Dober,
+  author    = {Dober},
+  date      = {8. September},
+  editor    = {Dober},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2015.09.08},
+  title     = {Entstehung der Evangelien},
+  url       = {http://www.dober.de/jesus/evangelien1.html},
+  year      = {2015}
+}
+
+@online{Hos,
+  author    = {Heinz-Dieter Neef},
+  date      = {Mai},
+  editor    = {Bibelwissenschaft.de},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2016.01.06},
+  title     = {Hosea/Hoseabuch},
+  url       = {http://www.bibelwissenschaft.de/wibilex/das-bibellexikon/lexikon/sachwort/anzeigen/details/hosea-hoseabuch/ch/a69242a2910dd8148f206804a6272085/#h3},
+  year      = {2006}
+}
+
+@online{Joel,
+  author    = {Jörg Sieger},
+  date      = {15. März},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2016.01.07},
+  title     = {Joel},
+  url       = {http://www.joerg-sieger.de/einleit/spez/04proph/spez62.htm},
+  year      = {2011}
+}
+
+@online{reformiert-online,
+  author    = {Refomiert Online},
+  date      = {8. September},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2015.09.08},
+  title     = {Lektion 2: Das Markusevangelium},
+  url       = {http://www.reformiert-online.net/t/de/bildung/bibelkunde/nt/LEK2/index.jsp},
+  year      = {2015}
+}
+
+@online{Daniel,
+  author    = {Ernst-August Bremicker},
+  date      = {6. Januar},
+  editor    = {Bibelkommentare.de},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2016.01.06},
+  title     = {Notizen zum Buch Daniel},
+  url       = {http://www.bibelkommentare.de/index.php?page=comment&comment_id=520},
+  year      = {2016}
+}
+
+@online{Obadja,
+  author    = {Christoph Rösler},
+  date      = {April},
+  editor    = {Bibelwissenschaft.de},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2016.01.10},
+  title     = {Obadja/Obadjabuch},
+  url       = {https://www.bibelwissenschaft.de/wibilex/das-bibellexikon/lexikon/sachwort/anzeigen/details/obadja-obadjabuch/ch/46afba2f32a37bbb8748b67ecc831ded/},
+  year      = {2009}
+}
+
+@book{hist,
+  author = {Eta Linnemann},
+  isbn   = {3893977546},
+  title  = {Original oder Fälschung},
+  url    = {https://www.amazon.de/Original-oder-F%C3%A4lschung-Historisch-kritische-Theologie/dp/3893977546/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1JM1FTNX299D1&keywords=eta+linnemann&qid=1575984637&s=books&sprefix=eta+linne%2Cstripbooks%2C162&sr=1-3},
+  year   = {2010}
+}
+
+@online{Jesaja,
+  author    = {T. Riedel},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2016.01.05},
+  title     = {Stammt das Buch des Propheten Jesaja von mehreren Verfassern?},
+  url       = {http://www.efg-hohenstaufenstr.de/downloads/bibel/bk_jesajas_verfasserschaft.pdf},
+  year      = {2001}
+}
+
+@online{Quellentheorie,
+  author    = {Ludwig-Maximilians-Universität München},
+  date      = {30. August},
+  editor    = {Katholisch-Theologische Fakultät},
+  owner     = {NachtaktiverHalbaffe},
+  timestamp = {2015.08.30},
+  title     = {Zwei-Quellen-Theorie},
+  url       = {http://www.bibelstudium.kaththeol.uni-muenchen.de/evangelien/synoptische_frage/zweiquellentheorie/index.html},
+  year      = {2015}
+}
+
+@online{Jonabuch,
+  author = {PD Dr. theol. habil. Meik Gerhards},
+  date   = {April},
+  editor = {Bibelwissenschaft.de},
+  title  = {Jona/Jonabuch},
+  url    = {http://www.bibelwissenschaft.de/stichwort/22740/},
+  year   = {2008}
+}
+
+@online{Jona,
+  author = {Dr. Jörg Sieger},
+  date   = {15. März},
+  title  = {Jona},
+  url    = {http://www.joerg-sieger.de/einleit/spez/06lehr/spez77.htm},
+  year   = {2011}
+}
+
+@online{Micha,
+  author = {Dr. Gabriele Metzner},
+  date   = {Juni},
+  editor = {Bibelwissenschaft.de},
+  title  = {Micha/Michabuch},
+  url    = {http://www.bibelwissenschaft.de/wibilex/das-bibellexikon/lexikon/sachwort/anzeigen/details/micha-michabuch/ch/601ae8b2afd42eca9af1b13222447a7b/#h5},
+  year   = {2007}
+}
+
+@online{Nahum,
+  author = {Gerlinde Baumann},
+  date   = {Oktober},
+  editor = {Aaron Schart},
+  title  = {Nahum/Nahumbuch},
+  url    = {https://www.uni-due.de/Ev-Theologie/wilat/Baumann,Gerlinde-nahum.htm#_Toc149868528},
+  year   = {2006}
+}
+
+@online{Zef,
+  author = {Hubert Irsigler},
+  date   = {Juli},
+  editor = {Theologische Universität Freiburg},
+  title  = {Kommentar zum Buch Zefanja},
+  url    = {http://www.theol.uni-freiburg.de/disciplinae/ale/personen/prof-irsigler/projekte},
+  year   = {2002}
+}
+
+@online{Zefanja,
+  author = {Prof. Dr. Hubert Irsigler},
+  date   = {Juni},
+  editor = {Bibelwissenschaft.de},
+  title  = {Zefanja/Zefanjabuch},
+  url    = {https://www.bibelwissenschaft.de/wibilex/das-bibellexikon/lexikon/sachwort/anzeigen/details/zefanja-zefanjabuch/ch/b5e7e37cc6d8170ddebd7a0d1ffc5632/#h14},
+  year   = {2008}
+}
+
+@online{Habakuk,
+  date   = {3. Dezember},
+  editor = {Mt. 18:20 Today},
+  title  = {Hintergrund 29: Das Buch des Propheten Habakuk},
+  url    = {https://mt1820today.wordpress.com/2008/12/03/hintergrund-29-das-buch-des-propheten-habakuk/},
+  year   = {2008}
+}
+
+@online{Hab,
+  author = {Dr. Jonathan Robker},
+  date   = {April},
+  editor = {Bibelwissenschaft.de},
+  title  = {Habakuk},
+  url    = {http://www.bibelwissenschaft.de/wibilex/das-bibellexikon/lexikon/sachwort/anzeigen/details/habakuk/ch/97a353d9db9dd4bc38692b162437f4fb/#h8},
+  year   = {2015}
+}
+
+@online{Sach,
+  author = {Dr. Jörg Sieger},
+  date   = {15. März},
+  title  = {Sacharja},
+  url    = {http://www.joerg-sieger.de/einleit/spez/04proph/spez_e4.htm},
+  year   = {2011}
+}
+
+@online{Sacharja,
+  author = {PD Dr. Holger Delkurt},
+  date   = {Oktober},
+  editor = {Bibelwissenschaft.de},
+  title  = {Sacharja/Sacharjabuch},
+  url    = {https://www.bibelwissenschaft.de/wibilex/das-bibellexikon/lexikon/sachwort/anzeigen/details/sacharja-sacharjabuch/ch/cc91da6a60d444bb6200e2f863e819b2/#h0},
+  year   = {2006}
+}
+
+@online{Maleachi,
+  author = {Prof. Dr. Arndt Meinhold},
+  date   = {November},
+  editor = {Bibelwissenschaft.de},
+  title  = {Maleachi/Maleachibuc

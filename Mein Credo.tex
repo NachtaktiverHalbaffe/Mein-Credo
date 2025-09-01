@@ -1,0 +1,85 @@
+\documentclass[12pt,a4paper]{scrreprt}
+\usepackage[utf8]{inputenc}
+\usepackage[main=german,provide=*]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage[automark,headsepline,plainheadsepline]{scrlayer-scrpage}
+\usepackage{listings} 
+\usepackage[backend=biber, url=true, sorting=none]{biblatex}
+\usepackage{csquotes}
+\usepackage{wrapfig}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+
+\defbibheading{lit}{\section{Literaturverzeichnis}}
+\defbibheading{on}{\section{Onlineverzeichnis}}
+\defbibheading{vor}{\section{Vorträge und Predigten}}
+\addbibresource{Quellenverzeichnis.bib}
+\hypersetup{
+colorlinks=true,
+linkcolor=black,
+urlcolor=black,
+citecolor=black,
+}
+\setlength{\parindent}{0pt}
+\graphicspath{{Bilder/}}
+\automark[section]{chapter} 
+\clearpairofpagestyles
+\ihead{\leftmark}
+\ohead[\thepage]{\thepage}
+
+
+\author{Felix Brugger}
+\title{Mein Credo --- Ein Versuch, meinen Glauben zu beweisen}
+\date{6. Februar 2015}
+
+\setcounter{secnumdepth}{5}
+\setcounter{tocdepth}{5}
+
+\begin{document}
+\pagestyle{empty}
+\begin{figure}[h]
+    \begin{center}
+        \includegraphics[width=\linewidth]{Kreuz}
+    \end{center}
+\end{figure}
+
+\bigskip
+\bigskip
+\bigskip
+
+\begin{center}
+    \Huge{\textbf{Mein Credo}}
+    \linebreak
+    \bigskip
+    \large{Ein Versuch, meinen Glauben zu beweisen}
+\end{center}
+
+\newpage
+\pagestyle{scrheadings}
+\tableofcontents
+\newpage
+
+\input{Vorwort}
+
+\input{Theologie}
+
+\input{Bibel}
+
+\input{Lehren_von_Jesus_Christus}
+
+% Work in Progress
+\iffalse
+\part{Apologetik und ``theologische Konstrukte''}
+\input{Sakramente}
+\fi
+
+\part{Quellenverzeichnis}
+\nocite{*}
+\chapter{Herangezogene Quellen}
+\printbibliography[heading=on, type=online]
+\printbibliography[heading=lit, nottype=online, nottype=inproceedings]
+\printbibliography[heading=vor, type=inproceedings]
+\listoffigures
+
+\end{document}
