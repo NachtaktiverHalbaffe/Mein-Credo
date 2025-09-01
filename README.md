@@ -1,1 +1,50 @@
 # Mein-Credo
+Seit meiner Geburt wuchs ich nach protestantischen Glauben auf, nahm dessen Werte an, sog
+dessen Inhalt auf und spätestens ab meinen 13. Lebensjahr war mein Glauben ein essentieller
+Bestandteil meines Lebens.
+
+Wie jeder Mensch entwickelte ich mich. Mein Leben war eine Achterbahnfahrt. Als Kind sog
+ich die Inhalte des Glaubens in mich auf. Es war nur ein oberflächliches ankratzen der wirk-
+lich wichtigen Sachverhalte, doch ich war begeistert. Da ich nicht getauft war, hab ich darauf
+bestanden, getauft zu werden. Nach langen bearbeiten meiner Mutter wurde ich am 1. Juli
+2007 getauft. Ich dachte, dass nichts und niemand in meinen Leben meinen Glauben im Weg
+stehen könnte. Doch es kam eine Zeit der persönlichen Herausforderungen. Im Angesicht diesen
+Herausforderungen konnte ich immer weniger an Gott glauben. Auch mithilfe meines Glaubens
+bezwang ich jedoch diese Situationen. Der Glauben prägte mein Leben und ließ gewisse Werte
+in mich einbrennen.
+
+Über die Jahre zweifelte ich wie jeder gute Christ an meinen Glauben und begann die Sachver-
+halte zu hinterfragen. Da ich auch (natur-) wissenschaftlich veranlagt bin -wahrscheinlich habe
+ich das durch meinen Vater geerbt- wollte ich meinen Glauben wissenschaftlich und theologisch
+hinterfragen. In meinen 17. Lebensjahr entschied ich mich, meinen Glauben von Grund auf
+kritisch zu hinterfragen und daraus mein Credo zu ziehen. Mit dem Gedanken im Hinterkopf,
+dass dies hier subjektiv geprägt sein wird und es kein absolutes, rationales Ergebnis bei einen
+irrationalen Thema möglich ist, beginne ich, meine komplizierten Denkvorgänge, Folgerungen,
+Schlüsse, Ansätze u.v.m. hier zu verschriftlichen mit dem Ziel, meinen eigenen Credo aufzustellen und hier festzuhalten, woran ich Glaube.
+
+Egal ob mein Credo zu einen zufriedenstellenden Ergebnis kommt oder nicht, egal ob ich in ferner Zukunft immer noch
+der Kirche angehöre oder nicht, ich bereue meinen Glauben nicht. Ich bin mir sicher, dass
+die Erfahrungen und Werte, die mich geprägt haben, in jeder Weise im Leben weiterhelfen
+werden. Als Dokumentation halte ich hier nun alles für mich und meine Nachwelt schriftlich
+fest. Entschuldigen sie meine eher merkwürdige Sprache und meine für sie Wirr erscheinenden
+Gedankengänge. Dieses riesige Projekt wird mich hoffentlich eine sehr lange Zeit begleiten und
+hoffentlich zu einen Ende kommen. Wenn nicht, dann ist es so. Wenn ja, dann spiegelt dieses
+Stück nicht nur meinen Credo wieder, sondern ein Stück meines Lebens.
+
+Nun stehe ich hier, bereit anzufangen. Vielleicht bin ich einfach nur verrückt. Vielleicht werde
+ich in ein paar Jahren nur schmunzelnd dies hier lesen und mich über meine eigene Naivität
+auslachen. Aber es ist mir egal. Ich habe mich immer wie ein verrückter Volldepp aufgeführt
+und es hat mich nie im Ansatz gejuckt. Also starte ich dieses Projekt ohne den Gedanken, was
+andere hierüber denken können oder kurz gesagt: Es juckt mich nicht, was andere hierüber
+denken.
+
+Zum Projekt: Dies ist eine sehr, sehr stark zusammengefasste Version meines Wissens. Für mich
+wichtige Stellen werden ausführlicher erläutert und eher unbedeutende oder leicht zu erklärende
+Stellen stark komprimiert. Die hierfür herangezogenen Quellen werden kritisch hinterfragt und
+zusammengetragen, jedoch nicht wissenschaftlich korrekt zitiert. Einige Stellen werden eine
+einzige Redaktion vieler Quellen sein und ich werde einen Teufel tun, jede einzelne Quelle an
+den entsprechenden Stellen zu zitieren, da der Aufwand dafür zu groß wäre. Diese Arbeit dient
+ganz und allein mir und Gott und wir pfeifen auf banale Formalitäten. Die Quellen werden am
+Ende aufgeführt und es steht jeden frei, die Quellen zu überprüfen. Dies ist mein Credo und
+keine wissenschaftliche Thesis. Formalitäten spielen hier eine untergeordnete Rolle. Umso mehr
+spielt der Inhalt eine Rolle. Und der liest sich besser ohne 3 Milliarden Quellenverweise.
