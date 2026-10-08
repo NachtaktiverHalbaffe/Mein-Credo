@@ -1,5 +1,5 @@
-ARG DEBIAN_VERSION=bullseye-slim
-ARG BASEDEV_VERSION=v0.25.0
+ARG DEBIAN_VERSION=13-slim
+ARG BASEDEV_VERSION=v0.29
 
 FROM debian:${DEBIAN_VERSION} AS chktex
 ARG CHKTEX_VERSION=1.7.6
@@ -25,13 +25,13 @@ LABEL \
     org.opencontainers.image.url="https://github.com/qdm12/latexdevcontainer" \
     org.opencontainers.image.documentation="https://github.com/qdm12/latexdevcontainer" \
     org.opencontainers.image.source="https://github.com/qdm12/latexdevcontainer" \
-    org.opencontainers.image.title="Latex Dev container Alpine" \
+    org.opencontainers.image.title="Latex Dev container Debian" \
     org.opencontainers.image.description="Latex development container for Visual Studio Code Remote Containers development"
 WORKDIR /tmp/texlive
 ARG SCHEME=scheme-basic
 ARG DOCFILES=0
 ARG SRCFILES=0
-ARG TEXLIVE_VERSION=2025
+ARG TEXLIVE_VERSION=2026
 ARG TEXLIVE_MIRROR=http://ctan.math.utah.edu/ctan/tex-archive/systems/texlive/tlnet
 RUN apt-get update -y && \
     apt-get install -y --no-install-recommends wget gnupg cpanminus && \
@@ -63,7 +63,8 @@ RUN apt-get update -y && \
     apt-get clean autoclean && \
     apt-get autoremove -y && \
     rm -rf /var/lib/{apt,dpkg,cache,log}/
-RUN tlmgr install koma-script latexindent latexmk listings biblatex csquotes wrapfig biber && \
+RUN tlmgr update --self && \
+    tlmgr install koma-script latexindent latexmk listings biblatex csquotes wrapfig biber && \
     texhash && \
     rm /usr/local/texlive/${TEXLIVE_VERSION}/texmf-var/web2c/*.log && \
     rm /usr/local/texlive/${TEXLIVE_VERSION}/tlpkg/texlive.tlpdb.main.*
