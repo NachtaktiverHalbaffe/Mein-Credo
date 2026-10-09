@@ -18,6 +18,15 @@ jobs:
           NEXTCLOUD_USER: ${{ secrets.NEXTCLOUD_USER }}
           NEXTCLOUD_APP_PASSWORD: ${{ secrets.NEXTCLOUD_APP_PASSWORD }}
         run: |
+          if [ -z "$NEXTCLOUD_USER" ]; then
+            echo "::error::GitHub Actions secret NEXTCLOUD_USER is missing or empty."
+            exit 1
+          fi
+          if [ -z "$NEXTCLOUD_APP_PASSWORD" ]; then
+            echo "::error::GitHub Actions secret NEXTCLOUD_APP_PASSWORD is missing or empty."
+            exit 1
+          fi
+
           curl --fail-with-body --silent --show-error \
             --user "$NEXTCLOUD_USER:$NEXTCLOUD_APP_PASSWORD" \
             -T "Mein Credo.pdf" \
