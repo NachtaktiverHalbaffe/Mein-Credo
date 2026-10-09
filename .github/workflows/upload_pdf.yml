@@ -14,7 +14,11 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Upload file to Nextcloud via WebDAV
+        env:
+          NEXTCLOUD_USER: ${{ secrets.NEXTCLOUD_USER }}
+          NEXTCLOUD_APP_PASSWORD: ${{ secrets.NEXTCLOUD_APP_PASSWORD }}
         run: |
-          curl -u "${{ secrets.NEXTCLOUD_USER }}:${{ secrets.NEXTCLOUD_PASS }}" \
+          curl --fail-with-body --silent --show-error \
+            --user "$NEXTCLOUD_USER:$NEXTCLOUD_APP_PASSWORD" \
             -T "Mein Credo.pdf" \
-            "https://cloud.lemonkay.de/remote.php/dav/files/${{ secrets.NEXTCLOUD_USER }}/Privat/Mein%20Credo/Mein%20Credo.pdf"
+            "https://cloud.lemonkay.de/remote.php/dav/files/$NEXTCLOUD_USER/Privat/Mein%20Credo/Mein%20Credo.pdf"
