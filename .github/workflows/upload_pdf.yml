@@ -16,7 +16,7 @@ jobs:
       - name: Upload file to Nextcloud via WebDAV
         env:
           NEXTCLOUD_USER: ${{ secrets.NEXTCLOUD_USER }}
-          NEXTCLOUD_APP_PASSWORD: ${{ secrets.NEXTCLOUD_APP_PASSWORD }}
+          NEXTCLOUD_APP_PASSWORD: ${{ secrets.NEXTCLOUD_PASS }}
         run: |
           if [ -z "$NEXTCLOUD_USER" ]; then
             echo "::error::GitHub Actions secret NEXTCLOUD_USER is missing or empty."
